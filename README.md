@@ -50,15 +50,26 @@ uploads
 
 
 ###Example list page
-
----------------------
-Wed Aug 05 2015 22:40:00 GMT+0300 (EEST) http://staging.lexicum.net/desktop 
----------------------
-Wed Aug 05 2015 22:38:46 GMT+0300 (EEST) http://staging.lexicum.net/mobile
----------------------
-Wed Aug 05 2015 22:38:26 GMT+0300 (EEST) http://address-to-server/uploads/1438803506571/project-two.zip
----------------------
-Wed Aug 05 2015 22:37:54 GMT+0300 (EEST) http://address-to-server/uploads/1438803506571/project-one.zip
+<pre><code>
+<ul>
+    <li>
+        <div class="qrcode"></div>
+        <span>Wed Aug 05 2015 22:40:00 GMT+0300 (EEST) http://staging.lexicum.net/desktop </span>
+    </li>
+    <li>
+        <div class="qrcode"></div>
+        <span>Wed Aug 05 2015 22:38:46 GMT+0300 (EEST) http://staging.lexicum.net/mobile</span>
+    </li>
+    <li>
+        <div class="qrcode"></div>
+        <span>Wed Aug 05 2015 22:38:26 GMT+0300 (EEST) http://address-to-server/uploads/1438803506571/project-two.zip</span>
+    </li>
+    <li>
+        <div class="qrcode"></div>
+        <span>Wed Aug 05 2015 22:37:54 GMT+0300 (EEST) http://address-to-server/uploads/1438803506571/project-one.zip</span>
+    </li>
+</ul>
+</code></pre>
 
 Code & Libraries
 
